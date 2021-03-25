@@ -1,0 +1,52 @@
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\Nueva carpeta (2)\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\maria\Downloads\Challenge\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\maria\Downloads\Challenge\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
